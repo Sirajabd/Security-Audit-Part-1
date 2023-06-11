@@ -8,7 +8,7 @@ This part of the Audit included a Controls Assessment and Compliance Checklist.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages or Utilities Used</h2>
 
 - <b>Controls Assessment</b> 
 - <b>Compliance Checklist</b>
